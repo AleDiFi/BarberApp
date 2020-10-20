@@ -1,1 +1,1 @@
-# BarberApp
+# Barber.Club
