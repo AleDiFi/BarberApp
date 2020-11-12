@@ -14,7 +14,7 @@ public class Calcolatrice extends Application{
 	
 	Label display;
 	Rectangle displayBackground;
-	
+	Button test;
 	Button zero;
 	Button one;
 	Button two;
